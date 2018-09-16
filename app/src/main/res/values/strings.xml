@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Coal</string>
+    <string name="nameProviders">Поставщик</string>
+    <string name="nameProvider">Название поставщика</string>
+    <string name="nameMarks">Марки</string>
+    <string name="nameMark">Название марки</string>
 </resources>
